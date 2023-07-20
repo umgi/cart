@@ -1,0 +1,88 @@
+td,tr {
+    border: 1px solid black;
+    border-color: #8AC4C6;
+    width: 400px;
+    border-left: 1px cornflowerblue;
+	border-right: 1px cornflowerblue;
+    color:  #8AC4C6;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    border-style: hidden;
+}
+
+.table-container {
+    margin-top: 30px;
+    width: 100%;
+    height: 40%;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 10px;
+    color: #8AC4C6;
+  }
+
+.ooo {
+    background-image: url(./d.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    width: 100%;
+    height: 400px;
+}
+
+.flo {
+    text-align: center;
+}
+
+.fl {
+    text-align: right;
+}
+
+.tp {
+    background-color:cornflowerblue;
+    width: 100vw;
+    height: 100vh;
+    padding: 100px;
+    box-sizing: border-box;
+    background-color: #8AC4C6;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.to {
+    background-color:cornflowerblue;
+    width:700px;
+    height: 300px;
+    background-color: #8AC4C6;
+}
+
+.wr {
+    color: blue;
+    background-color: #8AC4C6;
+    
+}
+
+.bu {
+    position: relative;
+    float: left;
+    left: 350px;
+    height: 50px;
+    top: 30px;
+    background-color: blue;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.bb {
+    position: relative;
+    float: left;
+    top: 30px;
+}
+
